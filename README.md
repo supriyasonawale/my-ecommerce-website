@@ -1,16 +1,51 @@
-# React + Vite
+ShopZone 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive e-commerce web application built using React.js.
 
-Currently, two official plugins are available:
+Features
+Product listing with API integration
+Product search
+Category filtering
+Product details page
+Add to Cart functionality
+Wishlist functionality
+User Login and Signup
+Cart management
+Checkout page
+Order and order tracking pages
+Responsive design
+Technologies Used
+React.js
+JavaScript
+HTML5
+CSS3
+Tailwind CSS
+React Router
+Context API
+DummyJSON API
+Vite
+Git & GitHub
+React Concepts Used
+Components
+Props
+State
+Context API
+useEffect
+Event Handling
+Conditional Rendering
+React Router
+Project Structure
+src/
+├── components/
+├── context/
+├── pages/
+├── assets/
+├── App.jsx
+└── main.jsx
+API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Product data is fetched from the DummyJSON API.
 
-## React Compiler
+GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+https://github.com/supriyasonawale/my-ecommerce-website
